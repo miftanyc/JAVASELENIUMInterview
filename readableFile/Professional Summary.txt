@@ -1,0 +1,21 @@
+Professional Summary
+
+
+•	Over 7 years of experience in Information Technology with emphasis on Software Quality Assurance and Testing as a manual and automation tester in Mobile and Web based applications.
+•	Experienced in all stages of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC) beginning from initiation and definition to deployment and support.
+•	Experienced with different Software Development Methodologies such as Waterfall, Agile, V-Model, Agile-Waterfall Hybrid Methodologies, and knowledge of CMMI guidelines compliance.
+•	Collaborated with development team to understand new product features/user stories for the purpose of designing and developing test scenarios and cases.
+•	Proficient at creating Requirements Traceability Matrix (RTM) to ensure Comprehensive Test coverage.
+•	Involved in design and implementation of Selenium WebDriver Automation Framework using JAVA for Functional and Regression test using TestNG, Maven, Cucumber, and Git.
+•	Practiced continuous integration process (CI/CD pipeline) using Jenkins/Bamboo and ran automation script nightly basis from GitHub/Bitbucket and debugged the script, identified bug, and reported defects in Azure DevOps, Jira, Zephyr, and ALM.
+•	Extensive knowledge of testing concepts, verification and validation techniques, defect management, quantitative methods, risk management and measurement programs.
+•	Proficient in Mentoring Team members, preparing the test plans, test scripts and test cases by analyzing Business Requirements and various other ARTIFACTS with a strong ability to Work closely with Dev team and Business Analysts to analyze the test scenarios.
+•	Proficient in distinct phases of Testing including smoke, Black Box, Functional, Integration, System, Backend, Regression, End to end, Ad-hoc, Exploratory, UX/UI, Usability and User Acceptance testing (UAT).
+•	Extensive experience with writing and utilizing SQL queries using RDBMS databases Oracle, MySQL, and MS SQL Server.
+•	Experienced in Automation Testing including creating test scripts, various enhancements- Parameterizing, Optional Step, and Synchronization techniques.
+•	Extensive Knowledge of validating API Using Postman. Automating UI and API using Playwright.
+•	Experienced in testing Visa / MasterCard / Amex cards payment adapter within the web application under development during Integration testing.
+•	Proficient in multiplatform (Windows, Mac, Android, IOS) & cross browser (IE, Firefox, Chrome, Safari) testing.
+•	Experience in documenting the testing process using MS-Office tools including Word, Excel, and MS-Project.
+•	Effective team player, Organized, attention to detail, self-motivated, employer dedication and ability to prioritize along critical path, meet projects milestone and deliverable dates.
+•	Excellent interpersonal, written, verbal, communication skills and along with the proven ability to work independently or as a member of a team.
